@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+
+# IDEs and editors
+/.idea
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# npm token registry
+.npmrc
+
+# Optional eslint cache
+.eslintcache
+
+# Code coverage
+coverage/*
+
+# compiled output
+/dist
+/tmp
+
+.nvmrc
+.env
